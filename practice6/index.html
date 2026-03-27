@@ -3,8 +3,152 @@
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
+    <link rel="stylesheet" href="style.css"/>
 </head>
 <body>
-dddd
+<div class="container">
+    <div class="header">
+        <div class="header-title">
+            <h2 >Device Management</h2>
+            <span>Total 4 Devices</span>
+        </div>
+        <button class="header-btn">+Add Device</button>
+    </div>
+    <div class="table-wrapper">
+        <table class="data-table">
+            <thead>
+                <tr>
+                    <th>Device Name</th>
+                    <th>Location</th>
+                    <th>Status</th>
+                    <th>Battery</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>
+                    <div class="device-info">
+                        <div class="icon-box icon-thermostat"></div>
+                        <span class="device-name">Smart Bulb A</span>
+                    </div>
+                </td>
+                <td>Living Room</td>
+                <td>
+                    <div class="status-badge badge-offline">
+                        <div class="status-dot"></div>
+                        <span>Online</span>
+                    </div>
+                </td>
+                <td>
+                    <div class="battery-wrapper">
+                        <div class="battery-bar">
+                            <div class="battery-fill" style="width: 85%;"></div>
+                        </div>
+                        <span class="batterty-text">85%</span>
+                    </div>
+                </td>
+                <td>
+                    <div class="action-btn">
+                        <button class="btn-edit">Edit</button>
+                    </div>
+                </td>
+            </tr>
+            </tbody>
+            <tbody>
+            <tr>
+                <td>
+                    <div class="device-info">
+                        <div class="icon-box icon-thermostat"></div>
+                        <span class="device-name">Main Thermostat</span>
+                    </div>
+                </td>
+                <td>Hallway</td>
+                <td>
+                    <div class="status-badge badge-offline">
+                        <div class="status-dot"></div>
+                        <span>Offline</span>
+                    </div>
+                </td>
+                <td>
+                    <div class="battery-wrapper">
+                        <div class="battery-bar">
+                            <div class="battery-fill" style="width: 85%;"></div>
+                        </div>
+                        <span class="batterty-text">85%</span>
+                    </div>
+                </td>
+                <td>
+                    <div class="action-btn">
+                        <button class="btn-edit">Edit</button>
+                    </div>
+                </td>
+            </tr>
+            </tbody>
+            <tbody>
+            <tr>
+                <td>
+                    <div class="device-info">
+                        <div class="icon-box icon-light"></div>
+                        <span class="device-name">Coffee Maker Plug</span>
+                    </div>
+                </td>
+                <td>kitchen</td>
+                <td>
+                    <div class="status-badge badge-online">
+                        <div class="status-dot"></div>
+                        <span>Online</span>
+                    </div>
+                </td>
+                <td>
+                    <div class="battery-wrapper">
+                        <div class="battery-bar">
+                            <div class="battery-fill fill-low" style="width: 15%;"></div>
+                        </div>
+                        <span>Plugged In</span>
+                    </div>
+                </td>
+                <td>
+                    <div class="action-btn">
+                        <button class="btn-edit">Edit</button>
+                    </div>
+                </td>
+            </tr>
+
+            </tbody>
+            <tbody>
+            <tr>
+                <td>
+                    <div class="device-info">
+                        <div class="icon-box icon-light"></div>
+                        <span class="device-name">Front Door Camera</span>
+                    </div>
+                </td>
+                <td>Porch</td>
+                <td>
+                    <div class="status-badge badge-online">
+                        <div class="status-dot"></div>
+                        <span>Standby</span>
+                    </div>
+                </td>
+                <td>
+                    <div class="battery-wrapper">
+                        <div class="battery-bar">
+                            <div class="battery-fill fill-low" style="width: 15%;"></div>
+                        </div>
+                        <span class="batterty-text text-low">60%</span>
+                    </div>
+                </td>
+                <td>
+                    <div class="action-btn">
+                        <button class="btn-edit">Edit</button>
+                    </div>
+                </td>
+            </tr>
+
+            </tbody>
+        </table>
+    </div>
+</div>
 </body>
 </html>
