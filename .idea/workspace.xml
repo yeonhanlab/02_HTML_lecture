@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f8f8218-8f34-42e6-a2fb-2ed9410429eb" name="변경" comment="practice6 직접 해야하는 버전">
-      <change afterPath="$PROJECT_DIR$/practice6/style.css" afterDir="false" />
+    <list default="true" id="7f8f8218-8f34-42e6-a2fb-2ed9410429eb" name="변경" comment="practice6 답안지">
+      <change afterPath="$PROJECT_DIR$/practice7/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice7/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice6/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +18,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="CSS File" />
       </list>
     </option>
@@ -76,8 +78,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "master",
@@ -109,6 +113,8 @@
       <updated>1774583954079</updated>
       <workItem from="1774583955940" duration="351000" />
       <workItem from="1774584323642" duration="11356000" />
+      <workItem from="1774831304691" duration="1321000" />
+      <workItem from="1774934175196" duration="4478000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
