@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f8f8218-8f34-42e6-a2fb-2ed9410429eb" name="변경" comment="practice7 직접 한 버전">
+    <list default="true" id="7f8f8218-8f34-42e6-a2fb-2ed9410429eb" name="변경" comment="practice7 답안지">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/practice7/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice7/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/practice7/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/practice7/style.css" afterDir="false" />
@@ -13,6 +13,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="33" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -71,6 +74,10 @@
     &quot;accountId&quot;: &quot;0bcfa243-0878-483a-942f-4ae0dcc74d5f&quot;
   }
 }</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -83,6 +90,7 @@
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
@@ -117,7 +125,8 @@
       <workItem from="1774583955940" duration="351000" />
       <workItem from="1774584323642" duration="11356000" />
       <workItem from="1774831304691" duration="1321000" />
-      <workItem from="1774934175196" duration="13216000" />
+      <workItem from="1774934175196" duration="13288000" />
+      <workItem from="1775020405584" duration="1473000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
@@ -159,7 +168,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774944702739</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="practice7 답안지">
+      <option name="closed" value="true" />
+      <created>1774947801186</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1774947801186</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,6 +198,7 @@
     <MESSAGE value="practice6 직접 해야하는 버전" />
     <MESSAGE value="practice7 진행 중" />
     <MESSAGE value="practice7 직접 한 버전" />
-    <option name="LAST_COMMIT_MESSAGE" value="practice7 직접 한 버전" />
+    <MESSAGE value="practice7 답안지" />
+    <option name="LAST_COMMIT_MESSAGE" value="practice7 답안지" />
   </component>
 </project>
