@@ -250,7 +250,7 @@ body {
 
 }
 
-/* +는 형제 관계에서 선택할 때 사용 */
+/* +는 형제 관계에서 선택할 때 사용! */
 .hidden-checkbox:checked +.checkbox-box  {
     background-color: #2563eb;
     border-color: #2563eb;
